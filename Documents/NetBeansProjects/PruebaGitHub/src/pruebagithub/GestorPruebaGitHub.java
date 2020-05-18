@@ -18,6 +18,7 @@ public class GestorPruebaGitHub {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Hola todos");
+        System.out.println("Hola diego");
     }
     
 }
